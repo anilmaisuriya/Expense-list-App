@@ -6,4 +6,4 @@ By using this App we can get to know more about our favorite Game-of-throne char
 ## Here is the link for the App
 
 
-gotappbyam.surge.sh
+http://gotappbyam.surge.sh/
