@@ -1,8 +1,9 @@
-# Expense-list App
+## Game Of Throne -App
 
-This App is for, tracking all day-to-day Expenses.
+By using this App we can get to know more about our favorite Game-of-throne characteres
+
 
 ## Here is the link for the App
 
 
-http://expenseappbya.surge.sh
+gotappbyam.surge.sh
